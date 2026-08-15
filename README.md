@@ -41,67 +41,23 @@ The primary objective of this project is to develop a **data-driven decision-sup
 7. Communicates findings through executive-level reporting and interactive visualisation.
 8. Establishes a foundation for future AI-assisted analytical automation.
 
-# Project Lifecycle
 
-The project follows an end-to-end delivery lifecycle:
 
-┌─────────────────────┐
-│  01. INITIATION     │
-│  Business Case      │
-│  Scope & Objectives │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  02. PLANNING       │
-│  Stakeholders       │
-│  Requirements       │
-│  WBS & Roadmap      │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  03. DATA WORKSTREAM│
-│  Acquisition        │
-│  Quality & Cleaning │
-│  Transformation     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  04. ANALYSIS       │
-│  KPIs               │
-│  SQL / Excel        │
-│  Statistical Review │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  05. BI DEVELOPMENT │
-│  Data Model         │
-│  DAX                │
-│  Dashboard          │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  06. QA & UAT       │
-│  Validation         │
-│  Testing            │
-│  Acceptance         │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  07. DECISION       │
-│  Executive Reporting│
-│  Recommendations    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  08. CLOSURE        │
-│  Benefits           │
-│  Lessons Learned    │
-│  Future Roadmap     │
-└─────────────────────┘
+## Project Lifecycle
+
+This project follows a structured end-to-end delivery lifecycle, integrating
+Project Management, Data Analytics and Business Intelligence into a single
+delivery framework.
+
+| Phase | Lifecycle Stage | Primary Focus | Key Outputs |
+|---|---|---|---|
+| **01** | **Initiation** | Define the business problem, purpose and expected outcomes | Project Charter, Business Case, Objectives, Scope |
+| **02** | **Planning** | Establish how the project will be delivered and controlled | Stakeholder Register, RACI, Requirements, WBS, Roadmap |
+| **03** | **Data & Requirements** | Establish the data, analytical requirements and quality expectations | Data Dictionary, Requirements, Data Quality Assessment |
+| **04** | **Execution & Analysis** | Prepare, analyse and interpret the data | Clean Dataset, KPIs, SQL Analysis, Excel Analysis |
+| **05** | **Business Intelligence** | Transform analytical findings into decision-support products | Data Model, DAX Measures, Power BI Dashboard |
+| **06** | **Monitoring & Control** | Validate quality, manage risks and ensure requirements are met | RAID Log, Validation, Testing, UAT |
+| **07** | **Decision Support** | Translate analytical findings into actionable insights | Executive Summary, Findings, Recommendations |
+| **08** | **Closure** | Evaluate deliverables, benefits and lessons learned | Closure Report, Benefits Review, Lessons Learned |
+| **09** | **Continuous Improvement** | Identify opportunities for AI, automation and future enhancement | AI Roadmap, Automation Opportunities, Future-State Model |
+
